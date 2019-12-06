@@ -1,0 +1,31 @@
+.metadata
+target/
+*~
+.DS_Store
+._*
+.classpath
+.svn
+.settings
+.project
+.springBeans
+.gradle
+node_modules/
+.next
+package-lock.json
+
+###Security ###
+.env
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+out/
+webpack-assets.json/
